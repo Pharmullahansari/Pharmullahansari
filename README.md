@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pharmullah ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pharmullah ansari" height="30" width="40" /></a>
-<a href="https://fb.com/faijaan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faijaan ahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pharmullah-ansari-501b03288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pharmullah ansari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/18i35VdHsM5pmm8C/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faijaan ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/pharmullah_ansari956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pharmullah_ansari956" height="30" width="40" /></a>
 </p>
 
