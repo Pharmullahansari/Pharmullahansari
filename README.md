@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm PHARMULLAH ANSARI</h1>
-<h3 align="center">I am WEB 3 enthusiast and spairing Full Stack developer with DevOps A passionate frontend developer from Nepal</h3>
+<h3 align="center">I am WEB 3 enthusiast and aspiring Full Stack developer with DevOps A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmullahansari&label=Profile%20views&color=0e75b6&style=flat" alt="pharmullahansari" /> </p>
 
