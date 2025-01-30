@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm PHARMULLAH ANSARI</h1>
 <h3 align="center">I am WEB 3 enthusiast and aspiring Full Stack developer with DevOps A passionate frontend developer from Nepal</h3>
 
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="951" height="342">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmullahansari&label=Profile%20views&color=0e75b6&style=flat" alt="pharmullahansari" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
